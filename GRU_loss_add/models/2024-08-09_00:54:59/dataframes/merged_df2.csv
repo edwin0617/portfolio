@@ -1,0 +1,189 @@
+,holo_HSMM,conf_difference,murmur_label,outcome_label,systolic_timing,age,pregnant,height,weight,sex,murmur_locations,recordings,val_fold
+39403,0.09111087024211884,-0.8177782893180847,Absent,Abnormal,nan,Child,False,76.0,9.05,Female,set(),"['39403_AV.wav', '39403_PV.wav', '39403_TV.wav', '39403_MV.wav']",0
+40840,0.8477925062179565,0.6955850124359131,Present,Abnormal,Mid-systolic,Adolescent,False,147.0,36.1,Female,"{'TV', 'AV', 'MV', 'PV'}","['40840_AV.wav', '40840_PV.wav', '40840_TV.wav', '40840_MV.wav']",0
+45843,0.7179439067840576,0.43588780984282494,Present,Abnormal,Holosystolic,Adolescent,False,141.0,34.4,Female,"{'TV', 'MV'}","['45843_AV.wav', '45843_PV.wav', '45843_TV.wav', '45843_MV.wav']",0
+46532,0.08367516100406647,-0.832649752497673,Absent,Normal,nan,Child,False,70.0,9.0,Female,set(),['46532_AV.wav'],0
+46778,0.852455735206604,0.7049114555120468,Present,Abnormal,Holosystolic,Adolescent,False,150.0,54.7,Female,{'MV'},['46778_MV.wav'],0
+49568,0.08847390674054623,-0.8230521623045206,Absent,Normal,nan,Child,False,141.0,37.5,Male,set(),"['49568_AV.wav', '49568_PV.wav', '49568_TV.wav', '49568_MV.wav']",0
+49585,0.08407587744295597,-0.8318482544273138,Absent,Abnormal,nan,Child,False,114.0,16.5,Female,set(),"['49585_AV.wav', '49585_PV.wav', '49585_TV.wav', '49585_MV.wav']",0
+49598,0.0872080847620964,-0.8255837932229042,Absent,Normal,nan,Child,False,83.0,13.8,Male,set(),"['49598_AV.wav', '49598_MV.wav']",0
+49704,0.09817806631326675,-0.8036438748240471,Absent,Abnormal,nan,Infant,False,52.0,,Male,set(),"['49704_AV.wav', '49704_MV.wav']",0
+49729,0.08444139361381531,-0.8311171978712082,Absent,Abnormal,nan,Child,False,93.0,14.8,Male,set(),"['49729_AV.wav', '49729_PV.wav', '49729_TV.wav', '49729_MV.wav']",0
+49735,0.08812561382850011,-0.8237487400571505,Absent,Abnormal,nan,Child,False,134.0,29.6,Female,set(),"['49735_PV.wav', '49735_TV.wav', '49735_MV.wav']",0
+49751,0.8172047883272171,0.6344095803797245,Present,Abnormal,Holosystolic,Child,False,101.0,16.6,Male,"{'TV', 'MV', 'PV'}","['49751_AV.wav', '49751_PV.wav', '49751_TV.wav', '49751_MV.wav']",0
+49823,0.8702163497606913,0.7404327044884363,Present,Abnormal,Holosystolic,Child,False,104.0,17.5,Male,"{'TV', 'MV', 'PV'}","['49823_PV.wav', '49823_TV.wav', '49823_MV.wav']",0
+49850,0.10374454781413078,-0.7925108857452869,Present,Abnormal,Holosystolic,Child,False,77.0,10.3,Female,"{'AV', 'MV'}","['49850_AV.wav', '49850_MV.wav']",0
+49853,0.08793081343173981,-0.8241384029388428,Absent,Normal,nan,Child,False,110.0,16.4,Female,set(),"['49853_AV.wav', '49853_PV.wav', '49853_TV.wav', '49853_MV.wav']",0
+49854,0.08399420231580734,-0.8320115879178047,Absent,Abnormal,nan,Child,False,131.0,25.3,Male,set(),"['49854_AV.wav', '49854_PV.wav', '49854_TV.wav', '49854_MV.wav']",0
+49876,0.08416447788476944,-0.8316710367798805,Absent,Abnormal,nan,Child,False,120.0,20.0,Female,set(),"['49876_AV.wav', '49876_PV.wav', '49876_TV.wav', '49876_MV.wav']",0
+49900,0.8687131106853485,0.7374262064695358,Present,Abnormal,Holosystolic,Infant,False,55.0,5.4,Female,"{'AV', 'MV'}","['49900_AV.wav', '49900_MV.wav']",0
+49960,0.2736741453409195,-0.4526517279446125,Absent,Normal,nan,nan,True,,,Female,set(),"['49960_AV.wav', '49960_PV.wav', '49960_TV.wav', '49960_MV.wav']",0
+49979,0.09830775856971741,-0.8033845126628876,Absent,Normal,nan,Child,False,89.0,12.5,Female,set(),['49979_MV.wav'],0
+49989,0.8015454411506653,0.60309087485075,Present,Abnormal,Early-systolic,Child,False,,10.1,Male,{'PV'},"['49989_PV.wav', '49989_MV.wav']",0
+50007,0.37538304552435875,-0.2492339350283146,Absent,Normal,nan,Child,False,108.0,15.2,Male,set(),"['50007_AV.wav', '50007_PV.wav', '50007_TV.wav', '50007_MV.wav']",0
+50008,0.08514280244708061,-0.8297143913805485,Absent,Normal,nan,Child,False,135.0,28.2,Male,set(),"['50008_AV.wav', '50008_PV.wav', '50008_TV.wav', '50008_MV.wav']",0
+50009,0.09435375779867172,-0.8112924471497536,Absent,Normal,nan,Child,False,85.0,12.6,Female,set(),['50009_AV.wav'],0
+50032,0.08926701545715332,-0.8214659690856934,Absent,Normal,nan,Child,False,123.0,30.9,Male,set(),"['50032_PV.wav', '50032_TV_1.wav', '50032_TV_2.wav']",0
+50043,0.10593615472316742,-0.788127675652504,Absent,Normal,nan,Child,False,110.0,19.9,Female,set(),"['50043_AV.wav', '50043_PV.wav', '50043_TV.wav']",0
+50054,0.6526643931865692,0.3053287900984287,Present,Abnormal,Early-systolic,Child,False,119.0,26.5,Female,"{'MV', 'PV'}","['50054_AV.wav', '50054_PV.wav', '50054_TV.wav', '50054_MV.wav']",0
+50094,0.08558661739031474,-0.8288267552852631,Absent,Normal,nan,nan,True,,,Female,set(),"['50094_PV.wav', '50094_TV.wav', '50094_MV.wav']",0
+50096,0.23774996772408485,-0.5245000906288624,Absent,Abnormal,nan,Child,False,129.0,24.6,Male,set(),"['50096_AV.wav', '50096_PV.wav', '50096_TV.wav', '50096_MV.wav']",0
+50100,0.08414700254797935,-0.831705991178751,Absent,Abnormal,nan,Infant,False,,8.0,Male,set(),"['50100_AV.wav', '50100_MV.wav']",0
+50111,0.0908123180270195,-0.8183753713965416,Absent,Abnormal,nan,nan,True,,,Female,set(),"['50111_AV.wav', '50111_PV.wav', '50111_TV.wav', '50111_MV.wav']",0
+50121,0.0835961364209652,-0.8328076638281345,Absent,Normal,nan,Child,False,151.0,42.2,Female,set(),"['50121_PV.wav', '50121_TV.wav']",0
+50122,0.08505083123842876,-0.829898327589035,Absent,Normal,nan,Child,False,123.0,22.7,Male,set(),"['50122_PV.wav', '50122_TV.wav', '50122_MV.wav']",0
+50123,0.2398987114429474,-0.5202026069164276,Unknown,Abnormal,nan,Child,False,,,Female,set(),['50123_MV.wav'],0
+50125,0.16880031178394952,-0.662399393816789,Absent,Abnormal,nan,Adolescent,False,153.0,33.3,Male,set(),"['50125_PV.wav', '50125_TV.wav', '50125_MV.wav']",0
+50136,0.8733431696891785,0.7466863691806793,Present,Abnormal,Holosystolic,Infant,False,61.0,4.3,Male,"{'AV', 'MV'}","['50136_AV.wav', '50136_MV.wav']",0
+50141,0.10462755709886551,-0.7907448336482048,Absent,Normal,nan,Adolescent,False,157.0,69.5,Male,set(),['50141_AV.wav'],0
+50159,0.08570150534311931,-0.8285969694455465,Present,Abnormal,Early-systolic,Adolescent,False,173.0,46.8,Male,{'MV'},"['50159_PV.wav', '50159_TV.wav', '50159_MV.wav']",0
+50160,0.11952471733093262,-0.7609505852063497,Absent,Normal,nan,Child,False,148.0,44.4,Male,set(),"['50160_PV.wav', '50160_TV.wav', '50160_MV.wav']",0
+50204,0.1037880430618922,-0.7924239188432693,Absent,Normal,nan,Child,False,79.0,12.7,Male,set(),"['50204_AV.wav', '50204_MV_1.wav', '50204_MV_2.wav']",0
+50221,0.42992595583200455,-0.1401480883359909,Present,Normal,Early-systolic,Child,False,76.0,10.4,Female,"{'AV', 'MV'}","['50221_AV.wav', '50221_MV.wav']",0
+50228,0.10577496886253357,-0.7884500622749329,Absent,Normal,nan,Child,False,109.0,19.1,Male,set(),"['50228_AV.wav', '50228_MV.wav']",0
+50241,0.08397738635540009,-0.8320452123880386,Absent,Abnormal,nan,Infant,False,,7.4,Male,set(),['50241_MV.wav'],0
+50244,0.5812456626445055,0.16249129362404346,Absent,Abnormal,nan,Adolescent,False,165.0,55.7,Male,set(),"['50244_AV.wav', '50244_PV.wav', '50244_TV.wav', '50244_MV.wav']",0
+50254,0.09042302705347538,-0.8191539701074362,Absent,Normal,nan,Child,False,114.0,26.4,Female,set(),"['50254_AV.wav', '50254_PV.wav', '50254_TV.wav', '50254_MV.wav']",0
+50272,0.0868279431015253,-0.8263441529124975,Absent,Normal,nan,Adolescent,False,167.0,103.1,Male,set(),"['50272_AV.wav', '50272_PV.wav', '50272_TV.wav', '50272_MV.wav']",0
+50280,0.5705759227275848,0.1411518156528473,Present,Abnormal,Early-systolic,Child,False,,28.2,Male,"{'TV', 'AV', 'PV'}","['50280_AV.wav', '50280_PV.wav', '50280_TV.wav']",0
+50284,0.08432547934353352,-0.8313490580767393,Absent,Normal,nan,Child,False,99.0,13.6,Male,set(),"['50284_AV.wav', '50284_PV.wav', '50284_TV.wav', '50284_MV.wav']",0
+50297,0.11246215365827084,-0.7750756982713938,Absent,Abnormal,nan,nan,True,,,Female,set(),"['50297_AV.wav', '50297_PV.wav', '50297_TV.wav', '50297_MV.wav']",0
+50300,0.08540967851877213,-0.8291806504130363,Unknown,Abnormal,nan,Infant,False,62.0,7.2,Female,set(),"['50300_AV.wav', '50300_MV.wav']",0
+50304,0.08368989080190659,-0.8326201811432838,Unknown,Normal,nan,Child,False,139.0,25.2,Female,set(),['50304_PV.wav'],0
+50306,0.08565108478069305,-0.8286978304386139,Absent,Abnormal,nan,Adolescent,False,,,Male,set(),"['50306_AV.wav', '50306_PV.wav', '50306_TV.wav', '50306_MV.wav']",0
+50321,0.10742160305380821,-0.7851568050682545,Absent,Abnormal,nan,Infant,False,66.0,8.2,Female,set(),"['50321_AV_1.wav', '50321_AV_2.wav', '50321_MV_1.wav', '50321_MV_2.wav']",0
+50323,0.6523205321282148,0.30464104749262333,Absent,Abnormal,nan,Child,False,98.0,15.4,Female,set(),"['50323_AV.wav', '50323_PV.wav', '50323_TV.wav', '50323_MV.wav']",0
+50332,0.7487708628177643,0.49754176288843155,Present,Abnormal,Early-systolic,Infant,False,60.0,7.4,Female,"{'AV', 'MV'}","['50332_AV.wav', '50332_MV.wav']",0
+50335,0.08572700247168541,-0.8285459913313389,Absent,Abnormal,nan,Child,False,78.0,12.7,Female,set(),"['50335_AV.wav', '50335_MV.wav']",0
+50349,0.08790521696209908,-0.824189554899931,Absent,Normal,nan,nan,True,,,Female,set(),"['50349_AV.wav', '50349_PV.wav', '50349_TV.wav', '50349_MV.wav']",0
+50379,0.08550754748284817,-0.8289849106222391,Absent,Abnormal,nan,Child,False,88.0,13.1,Female,set(),"['50379_AV.wav', '50379_PV.wav', '50379_TV.wav', '50379_MV.wav']",0
+50385,0.09718073531985283,-0.8056385554373264,Absent,Normal,nan,Child,False,103.0,17.3,Female,set(),"['50385_AV.wav', '50385_PV.wav', '50385_TV.wav', '50385_MV.wav']",0
+50628,0.09863204881548882,-0.8027359135448933,Absent,Abnormal,nan,Child,False,105.0,22.4,Female,set(),"['50628_AV.wav', '50628_MV.wav']",0
+50635,0.3428541477769613,-0.3142917174845934,Absent,Normal,nan,nan,True,,,Female,set(),"['50635_AV.wav', '50635_PV.wav', '50635_TV.wav', '50635_MV.wav']",0
+50646,0.08508450165390968,-0.8298310302197933,Absent,Normal,nan,Infant,False,74.0,10.6,Female,set(),"['50646_AV.wav', '50646_MV.wav']",0
+50649,0.08559947833418846,-0.8288010098040104,Absent,Abnormal,nan,Child,False,125.0,25.4,Male,set(),"['50649_AV.wav', '50649_PV.wav', '50649_TV.wav', '50649_MV.wav']",0
+50657,0.09547289833426476,-0.809054184705019,Absent,Normal,nan,Child,False,131.0,26.5,Male,set(),"['50657_AV.wav', '50657_PV.wav', '50657_TV.wav', '50657_MV.wav']",0
+50673,0.26536819338798523,-0.46926359087228775,Absent,Abnormal,nan,Adolescent,False,166.0,62.7,Male,set(),"['50673_AV.wav', '50673_PV.wav', '50673_TV.wav', '50673_MV.wav']",0
+50680,0.14421453140676022,-0.7115708980709314,Absent,Abnormal,nan,Child,False,142.0,36.2,Male,set(),"['50680_AV.wav', '50680_PV.wav', '50680_TV.wav', '50680_MV.wav']",0
+50691,0.08643629774451256,-0.8271274007856846,Absent,Normal,nan,Adolescent,False,155.0,45.0,Female,set(),"['50691_AV.wav', '50691_PV.wav', '50691_TV.wav', '50691_MV.wav']",0
+50704,0.3230770193040371,-0.35384589806199074,Absent,Normal,nan,Child,False,102.0,19.9,Male,set(),"['50704_AV.wav', '50704_MV.wav']",0
+50715,0.08963010273873806,-0.8207397852092981,Absent,Normal,nan,Child,False,123.0,22.4,Male,set(),"['50715_AV.wav', '50715_PV.wav', '50715_TV.wav', '50715_MV.wav']",0
+50721,0.2546076476573944,-0.49078468978405,Absent,Abnormal,nan,Child,False,124.0,21.3,Male,set(),"['50721_AV.wav', '50721_PV.wav', '50721_TV.wav', '50721_MV.wav']",0
+50723,0.09066657908260822,-0.8186668436974287,Absent,Abnormal,nan,Adolescent,False,154.0,45.3,Male,set(),"['50723_AV.wav', '50723_PV.wav', '50723_TV.wav', '50723_MV.wav']",0
+50729,0.08361083269119263,-0.8327783346176147,Absent,Normal,nan,Child,False,103.0,19.1,Female,set(),"['50729_AV.wav', '50729_MV.wav']",0
+50732,0.09893407300114632,-0.8021318577229977,Absent,Abnormal,nan,Child,False,136.0,30.9,Male,set(),"['50732_AV.wav', '50732_PV.wav', '50732_TV.wav', '50732_MV.wav']",0
+50736,0.0930526355902354,-0.8138947387536367,Present,Abnormal,Holosystolic,Child,False,103.0,18.7,Male,"{'TV', 'PV'}","['50736_AV.wav', '50736_PV.wav', '50736_TV.wav']",0
+50740,0.08457643911242485,-0.83084711804986,Absent,Abnormal,nan,Child,False,133.0,34.6,Female,set(),"['50740_AV.wav', '50740_PV.wav', '50740_TV.wav', '50740_MV.wav']",0
+50754,0.08626679331064224,-0.8274664059281349,Absent,Normal,nan,Child,False,130.0,22.9,Female,set(),"['50754_AV.wav', '50754_PV.wav', '50754_TV.wav', '50754_MV.wav']",0
+50756,0.08399838954210281,-0.8320031985640526,Absent,Normal,nan,Child,False,126.0,27.2,Female,set(),"['50756_AV.wav', '50756_PV.wav', '50756_TV.wav', '50756_MV.wav']",0
+50758,0.08831290155649185,-0.8233741745352745,Absent,Normal,nan,Child,False,139.0,36.6,Male,set(),"['50758_AV.wav', '50758_PV.wav', '50758_TV.wav', '50758_MV.wav']",0
+50763,0.09470436535775661,-0.810591259971261,Absent,Abnormal,nan,Child,False,129.0,27.7,Female,set(),"['50763_AV.wav', '50763_PV.wav', '50763_TV.wav', '50763_MV.wav']",0
+50766,0.0846994761377573,-0.8306010719388723,Absent,Normal,nan,nan,True,,,Female,set(),"['50766_AV.wav', '50766_PV.wav', '50766_TV.wav', '50766_MV.wav']",0
+50771,0.2668095640838146,-0.46638087183237076,Absent,Abnormal,nan,Child,False,113.0,21.2,Female,set(),"['50771_AV.wav', '50771_PV.wav', '50771_TV.wav', '50771_MV.wav']",0
+50788,0.1628083847463131,-0.6743832565844059,Absent,Normal,nan,Child,False,111.0,18.5,Female,set(),"['50788_AV.wav', '50788_PV.wav', '50788_TV.wav', '50788_MV.wav']",0
+50790,0.8703610897064209,0.7407221496105194,Present,Abnormal,Holosystolic,Infant,False,67.0,5.7,Female,"{'AV', 'MV'}","['50790_AV.wav', '50790_MV.wav']",0
+50793,0.08834370225667953,-0.8233126377065977,Absent,Normal,nan,nan,True,,,Female,set(),"['50793_PV.wav', '50793_TV.wav', '50793_MV.wav']",0
+50795,0.08667464554309845,-0.8266506940126419,Unknown,Normal,nan,Child,False,86.0,13.8,Female,set(),"['50795_AV.wav', '50795_MV.wav']",0
+50796,0.08286851396163304,-0.834262989461422,Absent,Abnormal,nan,Child,False,142.0,34.6,Female,set(),"['50796_PV.wav', '50796_TV.wav', '50796_MV.wav']",0
+50803,0.09214222803711891,-0.8157155476510525,Absent,Abnormal,nan,Child,False,118.0,33.6,Male,set(),"['50803_AV.wav', '50803_PV.wav', '50803_TV.wav', '50803_MV.wav']",0
+50820,0.08744190819561481,-0.8251161705702543,Absent,Normal,nan,Child,False,127.0,28.0,Male,set(),"['50820_AV.wav', '50820_PV.wav', '50820_TV.wav', '50820_MV.wav']",0
+50822,0.10251191258430481,-0.7949761599302292,Absent,Normal,nan,Child,False,128.0,22.3,Female,set(),"['50822_AV.wav', '50822_PV.wav', '50822_TV.wav', '50822_MV.wav']",0
+50826,0.08425822295248508,-0.8314835783094168,Absent,Abnormal,nan,Child,False,151.0,48.8,Male,set(),"['50826_AV.wav', '50826_PV.wav', '50826_TV.wav', '50826_MV.wav']",0
+68260,0.09111372195184231,-0.8177725467830896,Absent,Normal,nan,Child,False,115.0,19.9,Female,set(),"['68260_AV.wav', '68260_PV.wav', '68260_TV.wav', '68260_MV.wav']",0
+68318,0.14693238586187363,-0.7061352506279945,Absent,Abnormal,nan,Child,False,136.0,18.5,Female,set(),"['68318_AV.wav', '68318_PV.wav', '68318_TV.wav', '68318_MV.wav']",0
+68347,0.09266564436256886,-0.8146687280386686,Unknown,Abnormal,nan,Infant,False,69.0,7.69,Female,set(),"['68347_AV.wav', '68347_PV.wav', '68347_TV.wav', '68347_MV.wav']",0
+68379,0.8703123778104782,0.7406247779726982,Present,Abnormal,Holosystolic,Child,False,117.0,22.1,Male,"{'TV', 'AV', 'MV', 'PV'}","['68379_AV.wav', '68379_PV.wav', '68379_TV.wav', '68379_MV.wav']",0
+68395,0.08682500198483467,-0.8263499550521374,Absent,Normal,nan,Child,False,136.0,39.2,Female,set(),"['68395_PV.wav', '68395_TV.wav']",0
+68407,0.09273521602153778,-0.814529538154602,Absent,Normal,nan,Child,False,85.0,10.5,Female,set(),"['68407_AV.wav', '68407_PV.wav', '68407_TV.wav', '68407_MV.wav']",0
+68412,0.08520522154867649,-0.8295895364135504,Absent,Normal,nan,Child,False,93.0,19.2,Male,set(),"['68412_AV.wav', '68412_PV.wav', '68412_TV.wav', '68412_MV.wav']",0
+68419,0.08780035749077797,-0.8243992887437344,Absent,Abnormal,nan,Child,False,104.0,17.1,Male,set(),"['68419_AV.wav', '68419_PV.wav', '68419_TV.wav', '68419_MV.wav']",0
+68425,0.4714592471718788,-0.057081516832113266,Present,Abnormal,Early-systolic,Child,False,118.0,21.1,Female,"{'TV', 'AV', 'MV', 'PV'}","['68425_AV.wav', '68425_PV.wav', '68425_TV.wav', '68425_MV.wav']",0
+68478,0.08378498815000057,-0.8324300143867731,Absent,Abnormal,nan,Child,False,153.0,79.9,Male,set(),"['68478_AV.wav', '68478_PV.wav', '68478_TV.wav', '68478_MV.wav']",0
+68487,0.8575765937566757,0.7151531800627708,Present,Abnormal,Holosystolic,Child,False,120.0,24.5,Female,"{'TV', 'AV', 'MV', 'PV'}","['68487_AV.wav', '68487_PV.wav', '68487_TV.wav', '68487_MV.wav']",0
+68560,0.8514983355998993,0.7029966935515404,Present,Abnormal,Holosystolic,Child,False,131.0,32.5,Male,"{'TV', 'AV', 'MV', 'PV'}","['68560_AV.wav', '68560_PV.wav', '68560_TV.wav', '68560_MV.wav']",0
+68567,0.7160364091396332,0.43207285925745964,Present,Abnormal,Holosystolic,Child,False,89.0,14.3,Male,"{'TV', 'MV'}","['68567_AV.wav', '68567_PV.wav', '68567_TV.wav', '68567_MV.wav']",0
+68708,0.8708541244268417,0.7417082823812962,Present,Abnormal,Holosystolic,Child,False,106.0,13.5,Female,"{'TV', 'AV', 'MV', 'PV'}","['68708_AV.wav', '68708_PV.wav', '68708_TV.wav', '68708_MV.wav']",0
+68831,0.09457437135279179,-0.8108512368053198,Unknown,Abnormal,nan,Adolescent,False,58.0,51.6,Female,set(),"['68831_AV.wav', '68831_PV.wav', '68831_TV.wav', '68831_MV.wav']",0
+69067,0.32366750203073025,-0.35266498662531376,Unknown,Normal,nan,Child,False,121.0,25.6,Female,set(),"['69067_AV.wav', '69067_PV.wav', '69067_TV.wav', '69067_MV.wav']",0
+69079,0.8448556065559387,0.6897112131118774,Present,Abnormal,Mid-systolic,Child,False,96.0,16.0,Female,"{'TV', 'AV', 'MV', 'PV'}","['69079_AV.wav', '69079_PV.wav', '69079_TV.wav', '69079_MV.wav']",0
+69093,0.6468476112931967,0.29369524307549,Present,Abnormal,Holosystolic,Child,False,149.0,32.9,Female,"{'TV', 'AV', 'MV', 'PV'}","['69093_AV.wav', '69093_PV.wav', '69093_TV.wav', '69093_MV.wav']",0
+69096,0.14919609762728214,-0.7016077842563391,Present,Abnormal,Early-systolic,Child,False,91.0,15.0,Male,"{'AV', 'PV'}","['69096_AV.wav', '69096_PV.wav', '69096_TV.wav', '69096_MV.wav']",0
+69152,0.08464142866432667,-0.8307170998305082,Absent,Abnormal,nan,Child,False,125.0,31.5,Male,set(),"['69152_AV.wav', '69152_PV.wav', '69152_TV.wav', '69152_MV.wav']",0
+69174,0.09027755819261074,-0.819444889202714,Absent,Abnormal,nan,Child,False,123.0,23.9,Male,set(),"['69174_AV.wav', '69174_PV.wav', '69174_TV.wav', '69174_MV.wav']",0
+81638,0.28259770572185516,-0.43480460345745087,Absent,Abnormal,nan,Infant,False,57.0,4.52,Male,set(),"['81638_AV.wav', '81638_MV.wav']",0
+84687,0.08702801540493965,-0.8259439580142498,Absent,Normal,nan,Infant,False,68.0,9.07,Female,set(),"['84687_AV.wav', '84687_MV.wav']",0
+84696,0.08693471550941467,-0.8261305838823318,Absent,Abnormal,nan,Child,False,128.0,37.1,Male,set(),"['84696_AV.wav', '84696_PV.wav', '84696_TV.wav', '84696_MV.wav']",0
+84704,0.08849071711301804,-0.8230185583233833,Absent,Abnormal,nan,Adolescent,False,158.0,49.1,Female,set(),['84704_PV.wav'],0
+84706,0.08960331417620182,-0.8207934107631445,Absent,Abnormal,nan,Child,False,90.0,13.0,Male,set(),"['84706_AV.wav', '84706_PV.wav', '84706_TV.wav', '84706_MV.wav']",0
+84709,0.08835780620574951,-0.823284387588501,Absent,Normal,nan,Child,False,96.0,15.8,Female,set(),"['84709_AV.wav', '84709_PV.wav', '84709_TV.wav', '84709_MV.wav']",0
+84710,0.08510196022689342,-0.8297960627824068,Absent,Abnormal,nan,Child,False,141.0,35.1,Female,set(),"['84710_AV.wav', '84710_PV.wav', '84710_TV.wav', '84710_MV.wav']",0
+84713,0.08540401607751846,-0.8291919256250063,Absent,Abnormal,nan,Adolescent,False,161.0,69.1,Female,set(),"['84713_AV.wav', '84713_PV.wav', '84713_TV.wav']",0
+84716,0.08830700814723969,-0.8233859837055206,Absent,Abnormal,nan,Child,False,152.0,41.0,Male,set(),"['84716_AV.wav', '84716_PV.wav', '84716_TV.wav', '84716_MV.wav']",0
+84721,0.08780839294195175,-0.8243832066655159,Absent,Abnormal,nan,Child,False,82.0,11.1,Male,set(),"['84721_AV.wav', '84721_PV.wav', '84721_TV.wav', '84721_MV.wav']",0
+84731,0.8565066456794739,0.7130132615566254,Absent,Normal,nan,Neonate,False,50.0,3.53,Male,set(),['84731_MV.wav'],0
+84732,0.08707349747419357,-0.8258529976010323,Present,Abnormal,Early-systolic,Neonate,False,49.0,3.365,Female,{'MV'},"['84732_AV.wav', '84732_MV.wav']",0
+84740,0.0855863094329834,-0.8288273811340332,Absent,Normal,nan,Child,False,104.0,20.8,Female,set(),"['84740_AV.wav', '84740_PV.wav', '84740_TV.wav', '84740_MV.wav']",0
+84746,0.1364164650440216,-0.7271670997142792,Unknown,Normal,nan,nan,True,,,Female,set(),['84746_PV.wav'],0
+84754,0.09187106043100357,-0.816257876654466,Absent,Normal,nan,nan,True,,,Female,set(),"['84754_AV.wav', '84754_TV.wav', '84754_MV.wav']",0
+84764,0.08730997890233994,-0.8253800496459007,Absent,Normal,nan,Child,False,108.0,18.0,Male,set(),"['84764_AV.wav', '84764_PV.wav', '84764_TV.wav', '84764_MV.wav']",0
+84768,0.08862107992172241,-0.8227578699588776,Absent,Normal,nan,Child,False,161.0,68.4,Male,set(),"['84768_PV.wav', '84768_TV.wav']",0
+84775,0.09604246355593204,-0.8079150673002005,Absent,Normal,nan,Adolescent,False,166.0,71.3,Male,set(),"['84775_AV.wav', '84775_PV.wav', '84775_TV.wav', '84775_MV.wav']",0
+84790,0.09793031960725784,-0.8041394278407097,Absent,Normal,nan,Child,False,86.0,13.3,Male,set(),['84790_AV.wav'],0
+84804,0.0836411565542221,-0.8327176719903946,Absent,Normal,nan,Neonate,False,53.0,4.43,Male,set(),['84804_MV.wav'],0
+84823,0.08659754320979118,-0.8268049247562885,Absent,Normal,nan,Child,False,117.0,23.1,Male,set(),"['84823_AV.wav', '84823_PV.wav', '84823_TV.wav', '84823_MV.wav']",0
+84824,0.5606515854597092,0.12130314856767654,Absent,Abnormal,nan,Child,False,67.0,6.88,Female,set(),"['84824_AV.wav', '84824_MV.wav']",0
+84838,0.08487387374043465,-0.8302522711455822,Absent,Normal,nan,Child,False,129.0,21.0,Male,set(),"['84838_AV.wav', '84838_PV.wav', '84838_TV.wav', '84838_MV.wav']",0
+84851,0.08456162177026272,-0.83087676204741,Absent,Abnormal,nan,Child,False,98.0,15.1,Male,set(),"['84851_AV.wav', '84851_PV.wav', '84851_TV.wav', '84851_MV.wav']",0
+84853,0.09297828935086727,-0.8140434268862009,Present,Abnormal,Early-systolic,Child,False,106.0,19.0,Female,{'TV'},"['84853_AV.wav', '84853_PV.wav', '84853_TV.wav', '84853_MV.wav']",0
+84863,0.463810458779335,-0.07237910851836205,Present,Abnormal,Holosystolic,Child,False,93.0,13.4,Male,"{'TV', 'AV', 'MV', 'PV'}","['84863_AV.wav', '84863_PV.wav', '84863_TV.wav', '84863_MV.wav']",0
+84877,0.08551985025405884,-0.8289602994918823,Absent,Normal,nan,Child,False,112.0,18.4,Female,set(),"['84877_AV.wav', '84877_PV.wav', '84877_TV.wav', '84877_MV.wav']",0
+84882,0.4190484844148159,-0.1619030013680458,Present,Abnormal,Early-systolic,Child,False,125.0,36.1,Male,"{'TV', 'PV'}","['84882_AV.wav', '84882_PV.wav', '84882_TV.wav', '84882_MV.wav']",0
+84886,0.08304359018802643,-0.8339128345251083,Unknown,Normal,nan,nan,True,,,Female,set(),['84886_PV.wav'],0
+84894,0.08432283625006676,-0.8313543535768986,Absent,Normal,nan,Child,False,83.0,12.5,Male,set(),"['84894_AV.wav', '84894_PV.wav', '84894_TV.wav', '84894_MV.wav']",0
+84912,0.09181072749197483,-0.8163785543292761,Absent,Normal,nan,Child,False,78.0,12.3,Male,set(),"['84912_AV.wav', '84912_PV.wav', '84912_TV.wav', '84912_MV.wav']",0
+84922,0.0864206962287426,-0.8271585889160633,Absent,Normal,nan,Infant,False,61.0,4.8,Male,set(),"['84922_AV.wav', '84922_MV.wav']",0
+84939,0.08867308311164379,-0.8226538468152285,Absent,Normal,nan,Child,False,122.0,25.9,Female,set(),"['84939_AV.wav', '84939_PV.wav', '84939_TV.wav', '84939_MV.wav']",0
+84949,0.868480995297432,0.7369619868695736,Present,Abnormal,Holosystolic,Child,False,112.0,21.8,Female,"{'TV', 'AV', 'MV', 'PV'}","['84949_AV.wav', '84949_PV.wav', '84949_TV.wav', '84949_MV.wav']",0
+84950,0.0869403009613355,-0.8261193707585335,Unknown,Abnormal,nan,Child,False,165.0,67.0,Female,set(),"['84950_AV.wav', '84950_PV.wav', '84950_TV.wav']",0
+84969,0.08361386507749557,-0.8327722623944283,Absent,Abnormal,nan,Infant,False,64.0,6.6,Male,set(),['84969_MV.wav'],0
+84971,0.09352455039819081,-0.8129508942365646,Absent,Normal,nan,Infant,False,73.0,8.7,Female,set(),"['84971_PV.wav', '84971_TV.wav', '84971_MV.wav']",0
+84984,0.08468732982873917,-0.8306253775954247,Unknown,Abnormal,nan,Infant,False,,,Female,set(),"['84984_PV.wav', '84984_MV.wav']",0
+84991,0.08845599368214607,-0.823088001459837,Absent,Normal,nan,Child,False,125.0,28.3,Male,set(),"['84991_AV.wav', '84991_PV.wav', '84991_TV.wav', '84991_MV.wav']",0
+84992,0.0841282308101654,-0.8317435284455618,Absent,Normal,nan,Child,False,131.0,44.9,Female,set(),"['84992_AV.wav', '84992_PV.wav', '84992_TV.wav']",0
+84995,0.10702613741159439,-0.7859477028250694,Unknown,Normal,nan,Infant,False,,,Male,set(),"['84995_AV.wav', '84995_MV.wav']",0
+85027,0.08479279652237892,-0.8304143808782101,Absent,Normal,nan,Child,False,111.0,20.4,Female,set(),"['85027_AV.wav', '85027_PV.wav', '85027_TV.wav', '85027_MV.wav']",0
+85029,0.08777621202170849,-0.8244475591927767,Absent,Normal,nan,Child,False,100.0,16.7,Male,set(),"['85029_AV.wav', '85029_PV.wav', '85029_TV.wav', '85029_MV.wav']",0
+85035,0.08742860518395901,-0.8251427952200174,Absent,Normal,nan,Child,False,128.0,28.9,Male,set(),"['85035_AV.wav', '85035_PV.wav', '85035_TV.wav', '85035_MV.wav']",0
+85048,0.08547542430460453,-0.8290491458028555,Absent,Normal,nan,Adolescent,False,147.0,41.3,Male,set(),"['85048_AV.wav', '85048_PV.wav', '85048_TV.wav', '85048_MV.wav']",0
+85052,0.08483591675758362,-0.8303282161553701,Absent,Abnormal,nan,Child,False,117.0,19.7,Male,set(),"['85052_PV.wav', '85052_TV.wav', '85052_MV.wav']",0
+85053,0.08942455798387527,-0.8211508765816689,Absent,Normal,nan,Child,False,146.0,35.1,Female,set(),"['85053_AV.wav', '85053_PV.wav', '85053_TV.wav', '85053_MV.wav']",0
+85064,0.09080706723034382,-0.8183858525007963,Absent,Normal,nan,Child,False,160.0,43.6,Female,set(),"['85064_AV.wav', '85064_PV.wav', '85064_TV.wav', '85064_MV.wav']",0
+85075,0.15921402163803577,-0.6815719734877348,Absent,Normal,nan,Child,False,140.0,39.2,Male,set(),"['85075_AV.wav', '85075_PV.wav', '85075_TV.wav', '85075_MV.wav']",0
+85080,0.28330500051379204,-0.4333899989724159,Present,Abnormal,Early-systolic,Child,False,116.0,19.0,Female,"{'TV', 'AV', 'MV', 'PV'}","['85080_AV.wav', '85080_PV.wav', '85080_TV.wav', '85080_MV.wav']",0
+85090,0.23878821978966394,-0.5224235728383064,Absent,Normal,nan,nan,True,,,Female,set(),"['85090_PV.wav', '85090_TV.wav', '85090_MV.wav']",0
+85091,0.10400867834687233,-0.7919826172292233,Absent,Normal,nan,Infant,False,55.0,5.3,Male,set(),"['85091_AV.wav', '85091_MV.wav']",0
+85094,0.08611332811415195,-0.8277733381837606,Absent,Normal,nan,Child,False,141.0,39.8,Male,set(),"['85094_AV.wav', '85094_PV.wav', '85094_TV.wav', '85094_MV.wav']",0
+85119,0.12600077874958515,-0.7479984443634748,Present,Abnormal,nan,Child,False,161.0,43.7,Male,"{'AV', 'PV'}","['85119_AV.wav', '85119_PV.wav', '85119_TV.wav', '85119_MV.wav']",0
+85131,0.08944547362625599,-0.821109039708972,Absent,Normal,nan,Child,False,107.0,26.0,Male,set(),"['85131_AV.wav', '85131_PV.wav', '85131_TV.wav', '85131_MV.wav']",0
+85135,0.08596231788396835,-0.8280753468473753,Present,Normal,Early-systolic,Child,False,147.0,29.0,Female,{'TV'},"['85135_PV.wav', '85135_TV.wav', '85135_MV.wav']",0
+85148,0.08614470064640045,-0.8277105838060379,Absent,Normal,nan,nan,True,,,Female,set(),"['85148_AV.wav', '85148_PV.wav', '85148_TV.wav', '85148_MV.wav']",0
+85161,0.0860194992274046,-0.8279609698802233,Absent,Abnormal,nan,Infant,False,87.0,12.5,Male,set(),"['85161_AV.wav', '85161_PV.wav', '85161_TV.wav', '85161_MV.wav']",0
+85164,0.09156077541410923,-0.8168784286826849,Absent,Normal,nan,Child,False,142.0,36.3,Female,set(),"['85164_AV.wav', '85164_PV.wav', '85164_TV.wav', '85164_MV.wav']",0
+85169,0.24397837929427624,-0.5120432768017054,Present,Abnormal,Holosystolic,Child,False,121.0,23.7,Female,{'AV'},"['85169_AV.wav', '85169_PV.wav', '85169_TV.wav', '85169_MV.wav']",0
+85182,0.08600743301212788,-0.8279851209372282,Unknown,Normal,nan,Child,False,133.0,42.6,Male,set(),"['85182_AV.wav', '85182_PV.wav', '85182_TV.wav', '85182_MV.wav']",0
+85192,0.11427498981356621,-0.7714500464498997,Absent,Abnormal,nan,Adolescent,False,170.0,72.4,Male,set(),"['85192_AV.wav', '85192_PV.wav', '85192_TV.wav', '85192_MV.wav']",0
+85213,0.0842124056071043,-0.831575172021985,Absent,Abnormal,nan,Child,False,108.0,19.0,Male,set(),"['85213_AV.wav', '85213_PV.wav', '85213_TV.wav', '85213_MV.wav']",0
+85214,0.09295448288321495,-0.814091045409441,Absent,Normal,nan,Child,False,109.0,25.5,Male,set(),"['85214_AV.wav', '85214_PV.wav', '85214_TV.wav', '85214_MV.wav']",0
+85236,0.08673628605902195,-0.826527452096343,Absent,Abnormal,nan,Adolescent,False,,,Male,set(),"['85236_AV.wav', '85236_PV.wav', '85236_TV.wav', '85236_MV.wav']",0
+85240,0.08676663289467494,-0.8264667068918546,Absent,Normal,nan,nan,True,,,Female,set(),"['85240_AV.wav', '85240_PV.wav', '85240_TV.wav']",0
+85241,0.09626182168722153,-0.8074763789772987,Absent,Normal,nan,nan,True,,,Female,set(),"['85241_AV.wav', '85241_PV.wav', '85241_TV.wav', '85241_MV.wav']",0
+85243,0.7309703230857849,0.46194063127040863,Present,Abnormal,Early-systolic,Infant,False,65.0,5.7,Male,{'PV'},"['85243_AV.wav', '85243_PV.wav']",0
+85249,0.13435650244355202,-0.7312869839370251,Absent,Normal,nan,Child,False,138.0,31.3,Male,set(),"['85249_AV.wav', '85249_PV.wav', '85249_TV.wav', '85249_MV.wav']",0
+85250,0.08450206741690636,-0.8309958465397358,Absent,Normal,nan,Child,False,135.0,35.5,Male,set(),"['85250_AV.wav', '85250_PV.wav', '85250_TV.wav', '85250_MV.wav']",0
+85259,0.8709138035774231,0.741827592253685,Present,Abnormal,Holosystolic,Infant,False,61.0,2.3,Female,"{'AV', 'MV'}","['85259_AV.wav', '85259_MV.wav']",0
+85265,0.08615553751587868,-0.8276889286935329,Absent,Normal,nan,nan,True,,,Female,set(),"['85265_AV.wav', '85265_PV.wav', '85265_TV.wav', '85265_MV.wav']",0
+85299,0.10773585736751556,-0.7845282852649689,Absent,Normal,nan,Child,False,98.0,16.6,Female,set(),"['85299_AV.wav', '85299_PV.wav', '85299_TV.wav', '85299_MV.wav']",0
+85312,0.10858388058841228,-0.7828322071582079,Absent,Normal,nan,Child,False,142.0,37.1,Male,set(),"['85312_AV.wav', '85312_PV.wav', '85312_TV.wav', '85312_MV.wav']",0
+85337,0.10063563846051693,-0.7987286988645792,Absent,Normal,nan,Child,False,130.0,27.3,Male,set(),"['85337_AV.wav', '85337_PV.wav', '85337_TV.wav', '85337_MV.wav']",0
+85341,0.08886206150054932,-0.8222758769989014,Absent,Normal,nan,Child,False,92.0,15.2,Male,set(),"['85341_AV.wav', '85341_PV.wav', '85341_TV.wav', '85341_MV.wav']",0
+85349,0.09012537946303685,-0.8197492385903994,Absent,Normal,nan,nan,True,,,Female,set(),"['85349_AV.wav', '85349_PV.wav', '85349_TV.wav']",0

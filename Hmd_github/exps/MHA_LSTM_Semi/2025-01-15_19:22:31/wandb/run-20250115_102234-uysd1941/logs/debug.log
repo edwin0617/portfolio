@@ -1,0 +1,27 @@
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Configure stats pid to 1126313
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Loading settings from /Data1/hmd2/notebooks_th/Hmd_github/wandb/settings
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'main.py', 'program_abspath': '/Data1/hmd2/notebooks_th/Hmd_github/main.py', 'program': '/Data1/hmd2/notebooks_th/Hmd_github/main.py'}
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_init.py:_log_setup():534] Logging user logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_19:22:31/wandb/run-20250115_102234-uysd1941/logs/debug.log
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_init.py:_log_setup():535] Logging internal logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_19:22:31/wandb/run-20250115_102234-uysd1941/logs/debug-internal.log
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_init.py:init():621] calling init triggers
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_init.py:init():671] starting backend
+2025-01-15 10:22:34,940 INFO    MainThread:1126313 [wandb_init.py:init():675] sending inform_init request
+2025-01-15 10:22:34,942 INFO    MainThread:1126313 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-01-15 10:22:34,942 INFO    MainThread:1126313 [wandb_init.py:init():688] backend started and connected
+2025-01-15 10:22:34,943 INFO    MainThread:1126313 [wandb_init.py:init():783] updated telemetry
+2025-01-15 10:22:34,943 INFO    MainThread:1126313 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2025-01-15 10:22:35,369 INFO    MainThread:1126313 [wandb_init.py:init():867] starting run threads in backend
+2025-01-15 10:22:35,477 INFO    MainThread:1126313 [wandb_run.py:_console_start():2463] atexit reg
+2025-01-15 10:22:35,478 INFO    MainThread:1126313 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2025-01-15 10:22:35,478 INFO    MainThread:1126313 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2025-01-15 10:22:35,478 INFO    MainThread:1126313 [wandb_run.py:_redirect():2401] Redirects installed.
+2025-01-15 10:22:35,479 INFO    MainThread:1126313 [wandb_init.py:init():911] run started, returning control to user process
+2025-01-15 10:22:35,479 INFO    MainThread:1126313 [wandb_watch.py:_watch():71] Watching
+2025-01-15 10:55:44,076 WARNING MsgRouterThr:1126313 [router.py:message_loop():77] message_loop has been closed

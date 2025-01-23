@@ -1,0 +1,39 @@
+{
+  "os":  "Linux-6.8.0-51-generic-x86_64-with-glibc2.31",
+  "python":  "3.10.11",
+  "startedAt":  "2025-01-15T14:21:56.488243Z",
+  "program":  "/Data1/hmd2/notebooks_th/Hmd_github/main.py",
+  "codePath":  "main.py",
+  "email":  "edwin06171@gmail.com",
+  "root":  "/Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_23:21:53",
+  "host":  "e12c78892094",
+  "username":  "root",
+  "executable":  "/opt/conda/bin/python",
+  "codePathLocal":  "main.py",
+  "cpu_count":  14,
+  "cpu_count_logical":  20,
+  "gpu":  "NVIDIA GeForce RTX 4090",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "982820896768",
+      "used":  "228512727040"
+    }
+  },
+  "memory":  {
+    "total":  "33381404672"
+  },
+  "cpu":  {
+    "count":  14,
+    "countLogical":  20
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "NVIDIA GeForce RTX 4090",
+      "memoryTotal":  "25757220864",
+      "cudaCores":  16384,
+      "architecture":  "Ada"
+    }
+  ],
+  "cudaVersion":  "12.2"
+}

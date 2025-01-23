@@ -1,0 +1,19 @@
+{"time":"2025-01-15T14:21:56.48988273Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2025-01-15T14:21:56.489901353Z","level":"INFO","msg":"created symlink","path":"/Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_23:21:53/wandb/run-20250115_142156-xdcy33r6/logs/debug-core.log"}
+{"time":"2025-01-15T14:21:56.592938948Z","level":"INFO","msg":"created new stream","id":"xdcy33r6"}
+{"time":"2025-01-15T14:21:56.592986425Z","level":"INFO","msg":"stream: started","id":"xdcy33r6"}
+{"time":"2025-01-15T14:21:56.593117736Z","level":"INFO","msg":"handler: started","stream_id":{"value":"xdcy33r6"}}
+{"time":"2025-01-15T14:21:56.593054964Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xdcy33r6"}}
+{"time":"2025-01-15T14:21:56.593183247Z","level":"INFO","msg":"sender: started","stream_id":"xdcy33r6"}
+{"time":"2025-01-15T14:21:56.94810093Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T15:00:21.265328815Z","level":"INFO","msg":"stream: closing","id":"xdcy33r6"}
+{"time":"2025-01-15T15:00:21.265409121Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T15:00:21.266475057Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T15:00:21.534106318Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-15T15:00:21.534152326Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-15T15:00:21.534170156Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-15T15:00:22.109941124Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-15T15:00:22.347580763Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"xdcy33r6"}}
+{"time":"2025-01-15T15:00:22.347695582Z","level":"INFO","msg":"sender: closed","stream_id":"xdcy33r6"}
+{"time":"2025-01-15T15:00:22.347674701Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xdcy33r6"}}
+{"time":"2025-01-15T15:00:22.34787255Z","level":"INFO","msg":"stream: closed","id":"xdcy33r6"}

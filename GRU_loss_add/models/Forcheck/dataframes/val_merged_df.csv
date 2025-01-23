@@ -1,0 +1,3 @@
+,holo_HSMM,murmur_label,outcome_label,systolic_timing,age,pregnant,height,weight,sex,murmur_locations,recordings,val_fold
+2530,0.18965736031532288,Absent,Abnormal,nan,Child,False,98.0,15.9,Female,set(),"['2530_AV.wav', '2530_PV.wav', '2530_TV.wav', '2530_MV.wav']",3
+9983,0.1578178107738495,Unknown,Abnormal,nan,Child,False,115.0,19.1,Male,set(),"['9983_AV.wav', '9983_PV.wav', '9983_TV.wav', '9983_MV.wav']",3

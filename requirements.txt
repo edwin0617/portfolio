@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+librosa
+scipy
+omegaconf
+wandb

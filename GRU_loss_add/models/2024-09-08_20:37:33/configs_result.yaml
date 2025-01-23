@@ -1,0 +1,35 @@
+Optim_threshold: 0.0
+Test_WMA_score: 0.5121293800539084
+Val_WMA_score: 0.4954321855235418
+data_path:
+  external_data_subpath:
+    kaggle_set_a: kag_dataset_1/set_a
+    kaggle_set_b: kag_dataset_1/set_b
+    pysionet_2016: pysionet_2016
+    pysionet_sufhsdb: pysionet_sufhsdb
+  test_data_path: /Data2/murmur/test
+  train_data_path: /Data2/murmur/train
+data_preprocess:
+  frequency_high: 800
+  sampling_rate: 2000
+  window_length: 0.05
+  window_step: 0.02
+debug_true: false
+train_params:
+  Forcheck_epoch: 1
+  bs_per_dataset: 20
+  ema_factor: 0.999
+  exponent: -10.0
+  max_epoch: 400
+  rampup_length: 500
+  strong_batch_size: 60
+  train_lr: 1.0e-05
+  train_patience: 10
+  train_seq_length: 6
+  unlabel_batch_size: 60
+  val_batch_size: 128
+  w_cons_max: 2
+  w_gauss_noise: 0.4
+  w_weak: 0.5
+  w_weak_cons: 1
+  weak_batch_size: 60

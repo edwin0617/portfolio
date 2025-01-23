@@ -1,0 +1,19 @@
+{"time":"2025-01-15T09:16:29.162234251Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2025-01-15T09:16:29.162252262Z","level":"INFO","msg":"created symlink","path":"/Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_18:16:26/wandb/run-20250115_091629-tspyz5bp/logs/debug-core.log"}
+{"time":"2025-01-15T09:16:29.266360651Z","level":"INFO","msg":"created new stream","id":"tspyz5bp"}
+{"time":"2025-01-15T09:16:29.266442936Z","level":"INFO","msg":"stream: started","id":"tspyz5bp"}
+{"time":"2025-01-15T09:16:29.26660555Z","level":"INFO","msg":"sender: started","stream_id":"tspyz5bp"}
+{"time":"2025-01-15T09:16:29.266542072Z","level":"INFO","msg":"handler: started","stream_id":{"value":"tspyz5bp"}}
+{"time":"2025-01-15T09:16:29.2664949Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tspyz5bp"}}
+{"time":"2025-01-15T09:16:29.715883334Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T09:38:36.740757917Z","level":"INFO","msg":"stream: closing","id":"tspyz5bp"}
+{"time":"2025-01-15T09:38:36.740776512Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T09:38:36.741252948Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T09:38:36.956420422Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-15T09:38:36.956445233Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-15T09:38:36.956453104Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-15T09:38:37.571505873Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-15T09:38:37.896417653Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"tspyz5bp"}}
+{"time":"2025-01-15T09:38:37.896503832Z","level":"INFO","msg":"sender: closed","stream_id":"tspyz5bp"}
+{"time":"2025-01-15T09:38:37.896491472Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tspyz5bp"}}
+{"time":"2025-01-15T09:38:37.896719003Z","level":"INFO","msg":"stream: closed","id":"tspyz5bp"}

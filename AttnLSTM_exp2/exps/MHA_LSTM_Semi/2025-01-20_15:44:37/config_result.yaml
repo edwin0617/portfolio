@@ -1,0 +1,69 @@
+virtual_settings:
+  debug: false
+  tuning: false
+  gpu_index: '0'
+  num_workers: 8
+  verbose: 1
+datapath:
+  train_data: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data2
+  - murmur
+  - train
+  test_data: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data2
+  - murmur
+  - test
+  external_data: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data2
+  - heart_sound_dataset
+  external_data_subpath:
+    pysionet_sufhsdb: pysionet_sufhsdb
+    kaggle_set_a: kag_dataset_1/set_a
+    kaggle_set_b: kag_dataset_1/set_b
+  checkpoint_path: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data1
+  - hmd2
+  - notebooks_th
+  - AttnLSTM_exp2
+  - exps
+  - MHA_LSTM_Semi
+  - 2025-01-20_15:44:37
+data_preprocess:
+  frequency_high: 800
+  sampling_rate: 4000
+  window_length: 0.05
+  hop_length: 0.02
+  sequence_length: 6
+  clean_noise: true
+  num_k: 5
+  val_fold_num: 3
+exp_settings:
+  exp_params:
+    random_seed: 0
+    total_epoch: 250
+    strong_bs: 80
+    unlabel_bs: 160
+    val_bs: 120
+    learning_rate: 0.0005
+    training_patience: 10
+    ema_factor: 0.99
+    mixup_alpha: 0.2
+    mixup_beta: 0.2
+    mixup_label_type: soft
+    use_mix_up: true
+    pos_weight: 4.0
+  mean_teacher:
+    ema_factor: 0.99
+    const_max: 1
+exp_results:
+  stop_epoch: 70
+  optim_threshold_stu: 0.51
+  optim_threshold_tch: 0.51
+  Val_WMA_stu: 0.5278450363196125
+  Val_WMA_tch: 1.0
+  Test_WMA_stu: 0.8032345013477089
+  Test_WMA_tch: 0.7331536388140162

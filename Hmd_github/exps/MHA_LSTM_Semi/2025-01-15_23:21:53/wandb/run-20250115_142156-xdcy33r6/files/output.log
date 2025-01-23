@@ -1,0 +1,26 @@
+ 44%|██████████████████████████████████████████████████████████████████████████▉                                                                                                 | 109/250 [37:59<49:09, 20.92s/it]
+              True Class
+Predict  Present  Unknown   Absent
+Present       36       12       51
+Unknown        0        0        0
+Absent         2        2       88
+              True Class
+Predict  Present  Unknown   Absent
+Present      180       36       51
+Unknown        0        0        0
+Absent        10        6       88
+              True Class
+Predict  Present  Unknown   Absent
+Present       38       14      139
+Unknown        0        0        0
+Absent         0        0        0
+              True Class
+Predict  Present  Unknown   Absent
+Present      190       42      139
+Unknown        0        0        0
+Absent         0        0        0
+Val_WMA_stu: 0.4576271186440678
+Val_WMA_tch: 1.0
+Test_WMA_stu: 0.7223719676549866
+Test_WMA_tch: 0.5121293800539084
+Configuration saved to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_23:21:53/config_result.yaml

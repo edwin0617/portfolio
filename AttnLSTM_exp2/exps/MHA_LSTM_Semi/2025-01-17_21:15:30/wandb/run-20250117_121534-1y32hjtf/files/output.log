@@ -1,0 +1,29 @@
+  0%|                                                                                                                                                                                      | 0/250 [00:00<?, ?it/s]/opt/conda/lib/python3.10/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343967769/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+ 44%|████████████████████████████████████████████████████████████████████████████▎                                                                                               | 111/250 [36:22<45:33, 19.66s/it]
+              True Class
+Predict  Present  Unknown   Absent
+Present       36        3       14
+Unknown        0        0        0
+Absent         2       11      125
+              True Class
+Predict  Present  Unknown   Absent
+Present      180        9       14
+Unknown        0        0        0
+Absent        10       33      125
+              True Class
+Predict  Present  Unknown   Absent
+Present       27        2        5
+Unknown        0        0        0
+Absent        11       12      134
+              True Class
+Predict  Present  Unknown   Absent
+Present      135        6        5
+Unknown        0        0        0
+Absent        55       36      134
+Val_WMA_stu: 0.48184019370460046
+Val_WMA_tch: 1.0
+
+Test_WMA_stu: 0.8221024258760108
+Test_WMA_tch: 0.7250673854447439
+Configuration saved to /Data1/hmd2/notebooks_th/AttnLSTM_exp2/exps/MHA_LSTM_Semi/2025-01-17_21:15:30/config_result.yaml

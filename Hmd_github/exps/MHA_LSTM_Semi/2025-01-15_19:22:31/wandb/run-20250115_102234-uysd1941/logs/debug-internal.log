@@ -1,0 +1,19 @@
+{"time":"2025-01-15T10:22:34.943678271Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2025-01-15T10:22:34.943692128Z","level":"INFO","msg":"created symlink","path":"/Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_19:22:31/wandb/run-20250115_102234-uysd1941/logs/debug-core.log"}
+{"time":"2025-01-15T10:22:35.048237899Z","level":"INFO","msg":"created new stream","id":"uysd1941"}
+{"time":"2025-01-15T10:22:35.04831598Z","level":"INFO","msg":"stream: started","id":"uysd1941"}
+{"time":"2025-01-15T10:22:35.048445993Z","level":"INFO","msg":"sender: started","stream_id":"uysd1941"}
+{"time":"2025-01-15T10:22:35.048427646Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"uysd1941"}}
+{"time":"2025-01-15T10:22:35.04852065Z","level":"INFO","msg":"handler: started","stream_id":{"value":"uysd1941"}}
+{"time":"2025-01-15T10:22:35.418206898Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-15T10:55:44.076762732Z","level":"INFO","msg":"stream: closing","id":"uysd1941"}
+{"time":"2025-01-15T10:55:44.076779491Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-15T10:55:44.077058586Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-15T10:55:44.497061539Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-01-15T10:55:44.497088049Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-01-15T10:55:44.497096163Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-01-15T10:55:45.061227601Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-15T10:55:45.330349198Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"uysd1941"}}
+{"time":"2025-01-15T10:55:45.330411208Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"uysd1941"}}
+{"time":"2025-01-15T10:55:45.330599328Z","level":"INFO","msg":"sender: closed","stream_id":"uysd1941"}
+{"time":"2025-01-15T10:55:45.33079664Z","level":"INFO","msg":"stream: closed","id":"uysd1941"}

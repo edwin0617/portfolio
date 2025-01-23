@@ -1,0 +1,35 @@
+Data_preprocessing_parameters:
+  clean_noise: true
+  freq_bins: 40
+  hop_length: 0.02
+  max_seq_length: 6
+  sampling_rate: 4000
+  slice_feature: false
+  use_mix_up: false
+  window_length: 0.05
+Trainig_Hyperparameters:
+  const_max: 1
+  ema_factor: 0.99
+  final_lr: 1.0e-05
+  lambda_sch_decay_rate: 1.0e-05
+  learning_rate: 0.0005
+  max_epoch: 250
+  max_lr: 0.001
+  pct_start: 10
+  random_seed: 1996
+  train_bs: 80
+  training_patience: 10
+  use_mix_up: false
+  val_bs: 120
+Virtual_machine_settings:
+  gpu_index: '0'
+  num_workers: 8
+  verbose: 1
+exp_results:
+  Test_WMA_stu: 0.7331536388140162
+  Test_WMA_tch: 0.7762803234501348
+  Val_WMA_stu: 0.5012106537530266
+  Val_WMA_tch: 1.0
+  optim_threshold_stu: 0.08
+  optim_threshold_tch: 0.0
+  stop_epoch: 114

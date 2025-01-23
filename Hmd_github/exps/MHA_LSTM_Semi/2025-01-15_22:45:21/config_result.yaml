@@ -1,0 +1,62 @@
+datapath:
+  checkpoint_path: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data1
+  - hmd2
+  - notebooks_th
+  - Hmd_github
+  - exps
+  - MHA_LSTM_Semi
+  - 2025-01-15_22:45:21
+  external_data: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data2
+  - heart_sound_dataset
+  test_data: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data2
+  - murmur
+  - test
+  train_data: !!python/object/apply:pathlib.PosixPath
+  - /
+  - Data2
+  - murmur
+  - train
+dataset:
+  clean_noise: true
+  frequency_high: 800
+  hop_length: 0.02
+  num_k: 5
+  sampling_rate: 4000
+  sequence_length: 6
+  val_fold_num: 3
+  window_length: 0.05
+exp_params:
+  const_max: 1
+  ema_factor: 0.999
+  learning_rate: 1.0e-05
+  mixup_alpha: 0.2
+  mixup_beta: 0.2
+  mixup_label_type: soft
+  pos_weight: 4.0
+  random_seed: 0
+  strong_bs: 250
+  total_epoch: 250
+  training_patience: 10
+  unlabel_bs: 400
+  use_mix_up: false
+  val_bs: 120
+virtual_settings:
+  debug: false
+  gpu_index: '0'
+  num_workers: 8
+  tuning: false
+  verbose: 1
+exp_results:
+  stop_epoch: 76
+  optim_threshold_stu: 0.53
+  optim_threshold_tch: 0.0
+  Val_WMA_stu: 0.5084745762711864
+  Val_WMA_tch: 1.0
+  Test_WMA_stu: 0.7762803234501348
+  Test_WMA_tch: 0.5121293800539084

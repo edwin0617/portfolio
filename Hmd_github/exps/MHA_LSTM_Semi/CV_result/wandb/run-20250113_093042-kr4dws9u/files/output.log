@@ -1,0 +1,26 @@
+  0%|                                                                                                                                                                                      | 0/250 [00:00<?, ?it/s]/opt/conda/lib/python3.10/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343967769/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+ 59%|█████████████████████████████████████████████████████████████████████████████████████████████████████▏                                                                      | 147/250 [49:51<34:56, 20.35s/it]
+
+Train with 751 patients, 2531 recording files.
+  0%|                                                                                                                                                                                      | 0/250 [00:00<?, ?it/s]/opt/conda/lib/python3.10/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343967769/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+ 33%|█████████████████████████████████████████████████████████▍                                                                                                                   | 83/250 [28:42<57:45, 20.75s/it]
+
+Train with 751 patients, 2531 recording files.
+  0%|                                                                                                                                                                                      | 0/250 [00:00<?, ?it/s]/opt/conda/lib/python3.10/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343967769/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+ 28%|███████████████████████████████████████████████▉                                                                                                                           | 70/250 [24:03<1:01:51, 20.62s/it]
+
+Train with 751 patients, 2531 recording files.
+  0%|                                                                                                                                                                               | 0/250 [00:00<?, ?it/s]/opt/conda/lib/python3.10/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343967769/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+ 41%|███████████████████████████████████████████████████████████████████▎                                                                                                 | 102/250 [34:47<50:29, 20.47s/it]
+
+Train with 751 patients, 2531 recording files.
+  0%|                                                                                                                                                                               | 0/250 [00:00<?, ?it/s]/opt/conda/lib/python3.10/site-packages/torch/nn/modules/activation.py:1160: UserWarning: Converting mask without torch.bool dtype to bool; this will negatively affect performance. Prefer to use a boolean mask directly. (Triggered internally at /opt/conda/conda-bld/pytorch_1682343967769/work/aten/src/ATen/native/transformers/attention.cpp:150.)
+  return torch._native_multi_head_attention(
+ 50%|███████████████████████████████████████████████████████████████████████████████████▏                                                                                 | 126/250 [42:45<42:04, 20.36s/it]
+Val_WMA_stu: 0.7905832747716093
+Val_WMA_tch: 1.0
+Configuration saved to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-13_18:30:38/config_result.yaml

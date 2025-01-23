@@ -1,0 +1,35 @@
+data_path:
+  external_data_subpath:
+    kaggle_set_a: kag_dataset_1/set_a
+    kaggle_set_b: kag_dataset_1/set_b
+    pysionet_sufhsdb: pysionet_sufhsdb
+  test_data_path: /Data2/murmur/test
+  train_data_path: /Data2/murmur/train
+data_preprocess:
+  frequency_high: 800
+  sampling_rate: 4000
+  window_length: 0.05
+  window_step: 0.02
+debug_true: false
+result:
+  optim_murmur_threshold_stu: 0.6
+  test_WMM_accuracy_stu: 0.7142857142857143
+  test_WMM_accuracy_tch: 0.7169811320754716
+  val_WMM_accuracy_stu: 0.8044692737430168
+  val_WMM_accuracy_tch: 0.8100558659217877
+train_params:
+  Forcheck_epoch: 1
+  ema_factor: 0.999
+  exponent: -10.0
+  max_epoch: 400
+  rampup_length: 500
+  strong_batch_size: 82
+  train_lr: 0.0001
+  train_patience: 10
+  train_seq_length: 6
+  unlabel_batch_size: 16
+  val_batch_size: 128
+  w_cons_max: 2
+  w_weak: 0.5
+  w_weak_cons: 1
+  weak_batch_size: 12

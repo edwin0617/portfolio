@@ -1,0 +1,87 @@
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Configure stats pid to 4117868
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /Data1/hmd2/notebooks_th/Hmd_github/wandb/settings
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'main_CV.py', 'program_abspath': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py', 'program': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py'}
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_init.py:_log_setup():534] Logging user logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161105-tfqqipu6/logs/debug.log
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_init.py:_log_setup():535] Logging internal logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161105-tfqqipu6/logs/debug-internal.log
+2025-01-14 16:11:05,267 INFO    MainThread:4117868 [wandb_init.py:init():621] calling init triggers
+2025-01-14 16:11:05,268 INFO    MainThread:4117868 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2025-01-14 16:11:05,268 INFO    MainThread:4117868 [wandb_init.py:init():671] starting backend
+2025-01-14 16:11:05,268 INFO    MainThread:4117868 [wandb_init.py:init():675] sending inform_init request
+2025-01-14 16:11:05,269 INFO    MainThread:4117868 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-01-14 16:11:05,270 INFO    MainThread:4117868 [wandb_init.py:init():688] backend started and connected
+2025-01-14 16:11:05,272 INFO    MainThread:4117868 [wandb_init.py:init():783] updated telemetry
+2025-01-14 16:11:05,273 INFO    MainThread:4117868 [wandb_init.py:init():816] communicating run to backend with 90.0 second timeout
+2025-01-14 16:11:05,801 INFO    MainThread:4117868 [wandb_init.py:init():867] starting run threads in backend
+2025-01-14 16:11:05,907 INFO    MainThread:4117868 [wandb_run.py:_console_start():2463] atexit reg
+2025-01-14 16:11:05,907 INFO    MainThread:4117868 [wandb_run.py:_redirect():2311] redirect: wrap_raw
+2025-01-14 16:11:05,907 INFO    MainThread:4117868 [wandb_run.py:_redirect():2376] Wrapping output streams.
+2025-01-14 16:11:05,907 INFO    MainThread:4117868 [wandb_run.py:_redirect():2401] Redirects installed.
+2025-01-14 16:11:05,908 INFO    MainThread:4117868 [wandb_init.py:init():911] run started, returning control to user process
+2025-01-14 16:11:05,908 INFO    MainThread:4117868 [wandb_watch.py:_watch():71] Watching
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Configure stats pid to 4117868
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /Data1/hmd2/notebooks_th/Hmd_github/wandb/settings
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'main_CV.py', 'program_abspath': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py', 'program': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py'}
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_init.py:_log_setup():534] Logging user logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161255-rg3lnp50/logs/debug.log
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_init.py:_log_setup():535] Logging internal logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161255-rg3lnp50/logs/debug-internal.log
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_init.py:init():621] calling init triggers
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2025-01-14 16:12:55,909 INFO    MainThread:4117868 [wandb_watch.py:_watch():71] Watching
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Configure stats pid to 4117868
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /Data1/hmd2/notebooks_th/Hmd_github/wandb/settings
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'main_CV.py', 'program_abspath': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py', 'program': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py'}
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_init.py:_log_setup():534] Logging user logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161444-wat7kya5/logs/debug.log
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_init.py:_log_setup():535] Logging internal logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161444-wat7kya5/logs/debug-internal.log
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_init.py:init():621] calling init triggers
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2025-01-14 16:14:44,697 INFO    MainThread:4117868 [wandb_watch.py:_watch():71] Watching
+2025-01-14 16:16:34,233 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2025-01-14 16:16:34,233 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Configure stats pid to 4117868
+2025-01-14 16:16:34,233 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2025-01-14 16:16:34,233 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /Data1/hmd2/notebooks_th/Hmd_github/wandb/settings
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'main_CV.py', 'program_abspath': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py', 'program': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py'}
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_init.py:_log_setup():534] Logging user logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161634-q24ajvd7/logs/debug.log
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_init.py:_log_setup():535] Logging internal logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161634-q24ajvd7/logs/debug-internal.log
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_init.py:init():621] calling init triggers
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2025-01-14 16:16:34,234 INFO    MainThread:4117868 [wandb_watch.py:_watch():71] Watching
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Current SDK version is 0.18.5
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Configure stats pid to 4117868
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /root/.config/wandb/settings
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from /Data1/hmd2/notebooks_th/Hmd_github/wandb/settings
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program_relpath': 'main_CV.py', 'program_abspath': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py', 'program': '/Data1/hmd2/notebooks_th/Hmd_github/main_CV.py'}
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_setup.py:_flush():79] Applying login settings: {}
+2025-01-14 16:18:26,408 INFO    MainThread:4117868 [wandb_init.py:_log_setup():534] Logging user logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161826-2zaom8e0/logs/debug.log
+2025-01-14 16:18:26,409 INFO    MainThread:4117868 [wandb_init.py:_log_setup():535] Logging internal logs to /Data1/hmd2/notebooks_th/Hmd_github/exps/MHA_LSTM_Semi/2025-01-15_01:11:02/wandb/run-20250114_161826-2zaom8e0/logs/debug-internal.log
+2025-01-14 16:18:26,409 INFO    MainThread:4117868 [wandb_init.py:init():621] calling init triggers
+2025-01-14 16:18:26,409 INFO    MainThread:4117868 [wandb_init.py:init():628] wandb.init called with sweep_config: {}
+config: {}
+2025-01-14 16:18:26,409 INFO    MainThread:4117868 [wandb_init.py:init():666] wandb.init() called when a run is still active
+2025-01-14 16:18:26,409 INFO    MainThread:4117868 [wandb_watch.py:_watch():71] Watching
+2025-01-14 16:21:50,973 WARNING MsgRouterThr:4117868 [router.py:message_loop():77] message_loop has been closed
